@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{8704FB5D-88E1-464F-8343-6A400B467A51}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TTTInstaller", "TTTInstaller\TTTInstaller.vdproj", "{D9698FDE-E9AC-4140-A1E2-0C44F9900CE2}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TTTInstaller2", "TTTInstaller2\TTTInstaller2.vdproj", "{55B2663B-1D01-4E63-87EF-C72D93D2104A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,10 +15,6 @@ Global
 		{8704FB5D-88E1-464F-8343-6A400B467A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8704FB5D-88E1-464F-8343-6A400B467A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8704FB5D-88E1-464F-8343-6A400B467A51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D9698FDE-E9AC-4140-A1E2-0C44F9900CE2}.Debug|Any CPU.ActiveCfg = Debug
-		{D9698FDE-E9AC-4140-A1E2-0C44F9900CE2}.Release|Any CPU.ActiveCfg = Release
-		{55B2663B-1D01-4E63-87EF-C72D93D2104A}.Debug|Any CPU.ActiveCfg = Debug
-		{55B2663B-1D01-4E63-87EF-C72D93D2104A}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
